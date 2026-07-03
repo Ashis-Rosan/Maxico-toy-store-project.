@@ -26,9 +26,34 @@ The primary objective of this dashboard is to answer the following business ques
 **4.** **Total Units Sold:-** (1.09M) High product demand.  
 **5.** **Average Price:-** (14.76) Affordable pricing strategy explain this ni shorts words and simple words.
 
+## Slicers Used in the Dashboard
+1. **Product Category Slicer:-**     
+  Art & Crafts.   
+  Electronics.   
+  Games Sports & Outdoors.   
+  Toys.
+    
+ **The Product Category slicer allows to filter the dashboard by a specific product category.allowes to compare the performance of different product categories by changing the selection.**
+
+2. **Store Location Slicer.**       
+  Airport.   
+  Commercial.   
+  Downtown.   
+  Residential.
+  
+ **The Store Location slicer filters the dashboard based on the selected store location.helps compare sales performance across different store locations.**
+
+3. **Year Slicer.**     
+      2022.  
+      2023.   
+
+ **The Year slicer allows to analyze performance for a specific yearly performance by switching between years.**
+
 ## Data modeling image:-   
 ![Image](https://github.com/Ashis-Rosan/Maxico-toy-store-project./blob/ae0b865bb79966bcc9c8f773bd5d67a977d25fcd/Data%20Modeling%20screenshort%20of%20toy%20store.png)
-![Image](https://github.com/Ashis-Rosan/Restaurant-Orders./blob/834621174d781681fa0fc7f57f26cdd0f25eeaac/Screenshot%202026-07-01%20160419.png)
+
+## Deshboard image:-
+![Image](https://github.com/Ashis-Rosan/Maxico-toy-store-project./blob/963e5b2d4db1dd3c893d91e7792833b361c3da5c/Deshboard%20screenshort%20of%20toy%20store.png)
 
 ## Key Findings.
 
